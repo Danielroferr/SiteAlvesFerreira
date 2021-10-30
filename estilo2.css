@@ -2,10 +2,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: rgb(218, 210, 210);
     margin: 0;
+    background-image: url(/SiteAlvesFerreira/Imagens/principal/bg.jpg);
     
 }
 .hero {
-    background-image: url(imagens/principal/foto1.jpg);
+    background-image: url(/SiteAlvesFerreira/Imagens/principal/foto2.png);
     height: 500px;
     background-position: right center;
     background-size: cover;
@@ -72,11 +73,7 @@ h2 {
     font-size: 14px;
     color: whitesmoke;
     text-shadow: 2px 2px 2px #333;
-    background-color: grey;
-    height: 80px;
-    width: auto;
-    vertical-align: bottom;
-    line-height: 80px;
+   
 }
 img {
     display: inline-block;
